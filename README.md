@@ -2,7 +2,7 @@
 
 
 <h2> A desktop application built with Java and Swing to manage student and staff records efficiently.</h2>
-<br>
+
 <br>Features:
 <br>
 <br>✅ Login Validation
