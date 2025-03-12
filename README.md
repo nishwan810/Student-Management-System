@@ -4,14 +4,12 @@
 <h2> A desktop application built with Java and Swing to manage student and staff records efficiently.</h2>
 
 <h3>Features:</h3>
-<br>
-<br>✅ Login Validation
+✅ Login Validation
 <br>✅ Add, Delete, Update, and View Student & Staff Records
 <br>✅ User-friendly GUI using Swing
 <br>✅ Data validation for accurate entry
-<br>
 <br> <h3>Tech Stack:</h3>
-<br>Language: Java
+Language: Java
 <br>GUI: Swing
 <br>Database: MySQL 
 <br>
